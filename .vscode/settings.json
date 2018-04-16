@@ -1,0 +1,7 @@
+{
+  "cmake.environment": {
+    "PATH": "${workspaceRoot}/arm-poky-linux-gnueabi:${workspaceRoot}/usr/bin:${workspaceRoot}/usr/share",
+  },
+  "cmake.cmakePath": "/home/sdonohue/Documents/GitHub/cmake-tools-test/usr/bin/cmake",
+  "cmake.useCMakeServer": false
+}

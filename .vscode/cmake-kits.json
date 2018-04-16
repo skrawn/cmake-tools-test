@@ -1,0 +1,9 @@
+[
+  {
+    "name": "arm-poky-linux-gnueabi 6.3.0",
+    "compilers": {
+      "C": "arm-poky-linux-gnueabi-gcc",
+      "CXX": "arm-poky-linux-gnueabi-g++"
+    }
+  }
+]
